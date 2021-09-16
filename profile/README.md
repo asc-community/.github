@@ -1,4 +1,6 @@
-## You found us! :)
+![DDCE5BF9-99AB-4062-BA8E-EEC23AA40DB8](https://user-images.githubusercontent.com/31178401/133685058-02b884bb-59b0-48ea-b5c1-8dcc9fd2d836.jpeg)
+
+## You found Angouri! :)
 
 <a href="https://discord.gg/YWJEX7a"><img alt="Discord" src="https://badgen.net/discord/members/YWJEX7a?icon=discord&color=7289DA&label=Join+our+chat+in+Discord!"></a>
 <a href="https://angouri.org"><img src="https://img.shields.io/badge/website-angouri.org-blue"></a> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=social&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asc-community">
