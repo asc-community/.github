@@ -1,6 +1,6 @@
 ## You found us! :)
 
-<a href="https://discord.gg/YWJEX7a"><img alt="Discord" src="https://badgen.net/discord/members/YWJEX7a?icon=discord&color=252&labelColor=474&label=Join+our+chat+in+Discord!"></a>
+<a href="https://discord.gg/YWJEX7a"><img alt="Discord" src="https://badgen.net/discord/members/YWJEX7a?icon=discord&color=7289DA&label=Join+our+chat+in+Discord!"></a>
 <a href="https://angouri.org"><img src="https://img.shields.io/badge/website-angouri.org-blue"></a>
 
 We're a group of FOSS enhusiasts, working on some projects. We genuinely think that OSS is our real bright future. There is no requirement to start contributing to our projects. Moreover, by contributing to them, you contribute to humanity.
