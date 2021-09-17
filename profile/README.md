@@ -31,6 +31,6 @@ It is also well-optimized as much as possible given that it still supports any t
 
 ### Honk# ![GitHub Repo stars](https://img.shields.io/github/stars/WhiteBlackGoose/HonkSharp?style=social)
 
-<img src="https://github.com/WhiteBlackGoose/HonkSharp/raw/main/HonkSharp/logo256.png" width="120" align="left">
+<img src="https://github.com/asc-community/HonkSharp/raw/main/HonkSharp/logo256.png" width="120" align="left">
 
 [**Honk#**](https://github.com/WhiteBlackGoose/HonkSharp) is a general purpose library for C# aimed to make declarative programming in C# eaiser. It provides a number of fluent method extensions, for example, method `Pipe`, lazy properties, anonymous union type. Might fit well projects which cannot be afforded to be rewritten in more declarative languages, but at the same time would benefit from such features.
