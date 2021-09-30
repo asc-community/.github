@@ -5,7 +5,7 @@
 
 We're a group of FOSS enhusiasts, working on some projects. We genuinely think that OSS is our real bright future. There is no requirement to start contributing to our projects. Moreover, by contributing to them, you contribute to humanity.
 
-Main languages used: **C#**, **C++**, **F#**.
+Main languages used: **C#**, **C++**, **F#**. [NuGet](https://www.nuget.org/profiles/ASC-Community) and [GitHub](https://github.com/asc-community) of Angouri.
 
 ## Projects
 
