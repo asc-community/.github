@@ -1,7 +1,7 @@
 ## You found us! :)
 
 <a href="https://discord.gg/YWJEX7a"><img alt="Discord" src="https://badgen.net/discord/members/YWJEX7a?icon=discord&color=7289DA&label=Join+our+chat+in+Discord!"></a>
-<a href="https://angouri.org"><img src="https://img.shields.io/badge/website-angouri.org-blue"></a> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=social&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asc-community">
+<a href="https://angouri.org"><img src="https://img.shields.io/badge/website-angouri.org-blue"></a> <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=social&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/asc-community"> [![The number of downloads on nuget](https://img.shields.io/badge/dynamic/json?url=https%3A//morebadges.tk/%3fbadge=nugetdownloads%26user%3dASC-Community&query=Short&label=NuGet+installs&logo=nuget&color=lightblue&style=social)](https://www.nuget.org/profiles/ASC-Community)
 
 We're a group of FOSS enhusiasts, working on some projects. We genuinely think that OSS is our real bright future. There is no requirement to start contributing to our projects. Moreover, by contributing to them, you contribute to humanity.
 
