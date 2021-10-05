@@ -1,3 +1,6 @@
+![DJI_0132](https://user-images.githubusercontent.com/31178401/135977941-f15f2ca1-dc29-46e1-93ef-929ee0467f00.jpg)
+
+
 ## You found us! :)
 
 <a href="https://discord.gg/YWJEX7a"><img alt="Discord" src="https://badgen.net/discord/members/YWJEX7a?icon=discord&color=7289DA&label=Join+our+chat+in+Discord!"></a>
